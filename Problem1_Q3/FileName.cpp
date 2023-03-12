@@ -10,4 +10,6 @@ int main()
 	cin >> length;
 
 	cout << "The length in cm is: " << length * 30;
+
+	return 0;
 }
